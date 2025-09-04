@@ -9,4 +9,4 @@ This repository contains my practice and learning projects in data visualization
 
 ---
 
-🚀 *More updates and detailed explanations coming soon...*
+# 🚀 *More updates and detailed explanations coming soon...*
