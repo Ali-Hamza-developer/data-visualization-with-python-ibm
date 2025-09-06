@@ -6,7 +6,8 @@ This repository contains my practice and learning projects in data visualization
 - **Dash** 
 - **Matplotlib**   
 - **Seaborn**
-- **Plotly**   
+- **Plotly**
+- **Folium**
 
 ---
 
