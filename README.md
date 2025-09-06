@@ -8,6 +8,7 @@ This repository contains my practice and learning projects in data visualization
 - **Seaborn**
 - **Plotly**
 - **Folium**
+- **Projets**
 
 ---
 
