@@ -21,17 +21,6 @@ This repository contains my practice and learning projects in data visualization
 
 ---
 
-# 📸 Output Previews
-(Add images here after saving project outputs, for example:)
 
-- Wildfire Activities  
-  ![Wildfire Map](images/wildfire_map.png)  
-  ![Wildfire Trends](images/wildfire_trends.png)
-
-- Automobile Sales  
-  ![Automobile Dashboard](images/automobile_dashboard.png)  
-  ![Sales Trends](images/sales_trends.png)
-
----
 
 
