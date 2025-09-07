@@ -1,26 +1,37 @@
-# 📊 Data Visualization Projects
+# 📊 Data Visualization Projects (IBM & Coursera)
 
-This repository contains my practice and learning projects in data visualization.
+This repo contains my work for the **Data Visualization with Python** course (Coursera & IBM)  
+along with my own practice projects.
 
-## Files
-- **Dash**
-- **Matplotlib**
-- **Seaborn**
-- **Plotly**
-- **Folium**
-- **Projects**
+---
 
-## Projects
-- **Analyzing Wildfire Activities in Australia**
-  - `Analyzing wildfire activities in Australia.ipynb`
-  - `WildFire Activities Using Dash.py`
+## 📂 Repo Structure
 
-- **Historical Automobile Sales**
-  - `Historical Automobile Sales.ipynb`
-  - `Historical Automobile Sales Using Dash.py`
+- `DASH/` → Interactive dashboards  
+- `MATPLOTLIB/` → Static plots and charts  
+- `SEABORN/` → Statistical visualizations  
+- `PLOTLY/` → Interactive visualizations  
+- `FOLIUM/` → Map-based geospatial visualizations  
+- `PROJECTS/` → End-to-end visualization projects  
+
+---
+
+
+## 📊 Projects
+
+1. **Analyzing Wildfire Activities in Australia**  
+   - `Analyzing wildfire activities in Australia.ipynb`  
+   - `WildFire Activities Using Dash.py`  
+
+2. **Historical Automobile Sales**  
+   - `Historical Automobile Sales.ipynb`  
+   - `Historical Automobile Sales Using Dash.py`  
 
 ---
 
 
 
+## Author
 
+- 📧 Email: alihamza25856@gmail.com  
+- 🔗 LinkedIn: [Ali Hamza](https://www.linkedin.com/in/ali-hamza-27082a363/)  
