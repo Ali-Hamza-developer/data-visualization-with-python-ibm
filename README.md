@@ -27,7 +27,7 @@ along with my own practice projects.
    - `Historical Automobile Sales.ipynb`  
    - `Historical Automobile Sales Using Dash.py`  
 
----
+----
 
 
 
